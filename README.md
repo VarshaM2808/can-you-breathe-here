@@ -25,8 +25,10 @@ This project aims to:
 
 ##  Data Sources
 
-- **Air Quality Data:** City-level AQI dataset sourced from Kaggle  
-- **Public Health Data:** Country-level respiratory health indicators sourced from Kaggle  
+- **Air Quality Data:** City-level AQI dataset sourced from Kaggle
+   https://www.kaggle.com/datasets/beridzeg45/air-quality-index-across-the-world
+- **Public Health Data:** Country-level respiratory health indicators sourced from Kaggle
+   https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
 
 ---
 
